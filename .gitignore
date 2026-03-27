@@ -1,0 +1,19 @@
+# Системні файли
+.DS_Store
+
+# Кеш та налаштування IDE
+.idea/
+.vscode/
+*.swp
+
+# Теки збірки та Python
+bin/
+build/
+__pycache__/
+venv/
+
+# Файли з даними та логи
+*.txt
+*.csv
+*.json
+*.log
