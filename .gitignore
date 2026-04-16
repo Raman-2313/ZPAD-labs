@@ -1,19 +1,8 @@
-# Системні файли
-.DS_Store
-
-# Кеш та налаштування IDE
-.idea/
-.vscode/
-*.swp
-
-# Теки збірки та Python
-bin/
-build/
-__pycache__/
+.ipynb_checkpoints/
 venv/
-
-# Файли з даними та логи
-*.txt
-*.csv
-*.json
-*.log
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
