@@ -21,7 +21,7 @@
 
 ## Вимоги до середовища
 * **Python 3.10+**
-* **Бібліотеки:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`.
+* **Бібліотеки:** `pandas`, `numpy`, `matplotlib`, `seaborn`.
 
 ---
 
