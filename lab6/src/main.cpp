@@ -26,7 +26,6 @@ int main() {
     std::cout << "  '4' - Контури (Canny фільтр)" << std::endl;
     std::cout << "  'q' або 'ESC' - Вихід з програми" << std::endl;
 
-    // 3. Головний цикл
     while (true) {
         if (!camera.getFrame(srcFrame)) {
             std::cerr << "Помилка: втрачено зв'язок з камерою" << std::endl;
